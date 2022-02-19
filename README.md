@@ -8,3 +8,4 @@ A list of recreational ideas to implement.
 - [ ] [Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software](http://venom630.free.fr/pdf/Practical_Malware_Analysis.pdf)
 - [ ] [Stealing the Network: The Complete Series](https://darkweblinks.org/files/hacking/Stealing%20the%20Network%20-%20The%20Complete%20Series%20Collector's%20Edition.pdf)
 - [ ] Update discord with the schedule push.
+- [ ] create a packet manipulator in C.
