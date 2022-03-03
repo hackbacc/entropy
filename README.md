@@ -7,5 +7,6 @@ A list of recreational ideas to implement.
 - [x] [Hacking: The Art of Exploitation, 2nd Edition](https://repo.zenk-security.com/Magazine%20E-book/Hacking-%20The%20Art%20of%20Exploitation%20(2nd%20ed.%202008)%20-%20Erickson.pdf)
 - [ ] [Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software](http://venom630.free.fr/pdf/Practical_Malware_Analysis.pdf)
 - [ ] [Stealing the Network: The Complete Series](https://darkweblinks.org/files/hacking/Stealing%20the%20Network%20-%20The%20Complete%20Series%20Collector's%20Edition.pdf)
-- [ ] Update discord with the schedule push.
+- [x] Update discord with the schedule push.
 - [ ] create a packet manipulator in C.
+- [ ] implement AES, DES, RSA
